@@ -7,3 +7,4 @@ unmap('E');
 unmap('R');
 unmap('S');
 unmap('D');
+unmap('<Ctrl-i>');
