@@ -1,5 +1,4 @@
 settings.scrollStepSize = 88;
-map('i','I');
 map('K','E');
 map('J','R');
 map('H','S');
